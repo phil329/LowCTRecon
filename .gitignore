@@ -1,0 +1,5 @@
+CT_Reconstruction_256x256_1m/
+output/
+wandb/
+reconstruction/
+__pycache__/
